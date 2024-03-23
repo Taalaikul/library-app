@@ -10,8 +10,7 @@ export const ExploreTopBooks = () => {
                     <a type='button' className='btn main-color btn-lg text-white' href='#'>
                         Explore top books
                     </a>
-
-                </div>
+               </div>
             </div>
         </div>
     )
